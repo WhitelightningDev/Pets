@@ -5,14 +5,14 @@ public class Main {
         Cat persian = new Cat(true, false, "Persian cat", "Grooms Itself", 4, "Not Territorial");
 
         // Create a Dog object
-        Dog pitbull = new Dog("Pitbull", "Can be trained", "Can be domesticated", true, false);
+        Dog pitBull = new Dog("Pitbull", "Can be trained", "Can be domesticated", true, false);
 
         // Print information about the Cat
         System.out.println("Type of Cat: " + "\n");
-        System.out.println(persian.toString() + "\n");
+        System.out.println(persian + "\n");
 
         // Print information about the Dog
         System.out.println("Type of Dog: "+"\n");
-        System.out.println(pitbull.toString() + "\n");
+        System.out.println(pitBull + "\n");
     }
 }
