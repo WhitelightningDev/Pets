@@ -36,22 +36,3 @@ public class Dog {
         return trainability;
     }
 }
-
-//+--------------------------------+
-//|            Dog                 |
-//+--------------------------------+
-//| - breed: String                |
-//| - trainability: String         |
-//| - domestication: String        |
-//| - social: boolean              |
-//| - solitary: boolean            |
-//+--------------------------------+
-//| + Dog(breed: String,           |
-//|       trainability: String,    |
-//|       domestication: String,   |
-//|       social: boolean,         |
-//|       solitary: boolean)       |
-//| + toString(): String           |
-//| + getBreed(): String           |
-//| + getTrainability(): String    |
-//+--------------------------------+

@@ -48,25 +48,3 @@ public class Cat {
         return solitary;
     }
 }
-//+--------------------------------+
-//|            Cat                 |
-//+--------------------------------+
-//| - solitary: boolean            |
-//| - social: boolean              |
-//| - breed: String                |
-//| - grooming: String             |
-//| - climbingAbility: int         |
-//| - territorial: String          |
-//+--------------------------------+
-//| + Cat(solitary: boolean,       |
-//|       social: boolean,         |
-//|       breed: String,           |
-//|       grooming: String,        |
-//|       climbingAbility: int,    |
-//|       territorial: String)     |
-//| + toString(): String           |
-//| + getBreed(): String           |
-//| + getTerritorial(): String     |
-//| + isSocial(): boolean          |
-//| + isSolitary(): boolean        |
-//+--------------------------------+
